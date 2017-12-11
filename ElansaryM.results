@@ -1,0 +1,438 @@
+================================================================================
+Analysis and Predictions for : 30 Day Cum Gas (MCF)
+================================================================================
+--------------------------------------------------------------------------------
+Classifier: Nearest Neighbors
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0575267356566,Explained variance regression score function
+	625.514705882,Mean absolute error regression loss
+	963254.455882,Mean squared error regression loss
+	9.8646238934,Mean squared logarithmic error regression loss
+	321.0,Median absolute error regression loss
+	-0.208770894446,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0735294117647,Accuracy Score
+	0.0518258931984,Matthews correlation coefficient (MCC)
+	0.0735294117647,Jaccard similarity coefficient
+	0.0496894409938,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Linear SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-1.31296456641,Explained variance regression score function
+	922.632352941,Mean absolute error regression loss
+	2001518.10294,Mean squared error regression loss
+	7.30110366904,Mean squared logarithmic error regression loss
+	487.0,Median absolute error regression loss
+	-1.51166948958,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0882352941176,Accuracy Score
+	0.0753926407201,Matthews correlation coefficient (MCC)
+	0.0882352941176,Jaccard similarity coefficient
+	0.0732029017366,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: RBF SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0,Explained variance regression score function
+	700.764705882,Mean absolute error regression loss
+	1287958.70588,Mean squared error regression loss
+	31.6339186758,Mean squared logarithmic error regression loss
+	423.0,Median absolute error regression loss
+	-0.61623648602,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.147058823529,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.147058823529,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Poly SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-1.51834878693,Explained variance regression score function
+	1008.82352941,Mean absolute error regression loss
+	2271248.44118,Mean squared error regression loss
+	8.8695493839,Mean squared logarithmic error regression loss
+	504.5,Median absolute error regression loss
+	-1.85014929646,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0735294117647,Accuracy Score
+	0.0605744375362,Matthews correlation coefficient (MCC)
+	0.0735294117647,Jaccard similarity coefficient
+	0.0586684245221,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Sigmoid SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0,Explained variance regression score function
+	700.764705882,Mean absolute error regression loss
+	1287958.70588,Mean squared error regression loss
+	31.6339186758,Mean squared logarithmic error regression loss
+	423.0,Median absolute error regression loss
+	-0.61623648602,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.147058823529,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.147058823529,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Gaussian Process
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	1.11022302463e-16,Explained variance regression score function
+	3989.26470588,Mean absolute error regression loss
+	16663050.9412,Mean squared error regression loss
+	19.1317759027,Mean squared logarithmic error regression loss
+	4261.0,Median absolute error regression loss
+	-19.9101664336,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Decision Tree
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.646910343782,Explained variance regression score function
+	836.191176471,Mean absolute error regression loss
+	1529434.98529,Mean squared error regression loss
+	5.97356035407,Mean squared logarithmic error regression loss
+	463.5,Median absolute error regression loss
+	-0.919260776715,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.117647058824,Accuracy Score
+	0.103099366157,Matthews correlation coefficient (MCC)
+	0.117647058824,Jaccard similarity coefficient
+	0.100529100529,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Regrission Tree
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-1.31777317088,Explained variance regression score function
+	920.955882353,Mean absolute error regression loss
+	1907282.01471,Mean squared error regression loss
+	15.2057631429,Mean squared logarithmic error regression loss
+	491.5,Median absolute error regression loss
+	-1.39341429754,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0441176470588,Accuracy Score
+	0.0150739157195,Matthews correlation coefficient (MCC)
+	0.0441176470588,Jaccard similarity coefficient
+	0.0147124386982,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Random Forest
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.918038390078,Explained variance regression score function
+	682.147058824,Mean absolute error regression loss
+	1528460.91176,Mean squared error regression loss
+	7.94767910083,Mean squared logarithmic error regression loss
+	296.5,Median absolute error regression loss
+	-0.918038429157,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.117647058824,Accuracy Score
+	0.0952553220707,Matthews correlation coefficient (MCC)
+	0.117647058824,Jaccard similarity coefficient
+	0.0931318070682,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Neural Net
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.146099711576,Explained variance regression score function
+	839.485294118,Mean absolute error regression loss
+	1040079.98529,Mean squared error regression loss
+	10.864780316,Mean squared logarithmic error regression loss
+	727.5,Median absolute error regression loss
+	-0.305177885699,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: AdaBoost
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-2.0955601748,Explained variance regression score function
+	1251.08823529,Mean absolute error regression loss
+	3368922.17647,Mean squared error regression loss
+	7.7813472155,Mean squared logarithmic error regression loss
+	936.0,Median absolute error regression loss
+	-3.22760055529,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0882352941176,Accuracy Score
+	0.0868251690383,Matthews correlation coefficient (MCC)
+	0.0882352941176,Jaccard similarity coefficient
+	0.0762489044698,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Naive Bayes
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.0111986590719,Explained variance regression score function
+	702.941176471,Mean absolute error regression loss
+	1287733.41176,Mean squared error regression loss
+	31.1451433468,Mean squared logarithmic error regression loss
+	411.0,Median absolute error regression loss
+	-0.615953768437,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.147058823529,Accuracy Score
+	0.0156252904003,Matthews correlation coefficient (MCC)
+	0.147058823529,Jaccard similarity coefficient
+	0.00429184549356,Cohen's kappa
+================================================================================
+Analysis and Predictions for : 30 Day Cum Condensate (bbls)
+================================================================================
+--------------------------------------------------------------------------------
+Classifier: Nearest Neighbors
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.0759924852821,Explained variance regression score function
+	130857.132353,Mean absolute error regression loss
+	27891138346.2,Mean squared error regression loss
+	1.54644259334,Mean squared logarithmic error regression loss
+	101524.5,Median absolute error regression loss
+	-1.3352991617,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Linear SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.790572329582,Explained variance regression score function
+	116105.426471,Mean absolute error regression loss
+	21621909966.2,Mean squared error regression loss
+	0.868334954809,Mean squared logarithmic error regression loss
+	91875.0,Median absolute error regression loss
+	-0.810382480336,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: RBF SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0,Explained variance regression score function
+	341933.602941,Mean absolute error regression loss
+	128861871635.0,Mean squared error regression loss
+	1.75593071287,Mean squared logarithmic error regression loss
+	357842.5,Median absolute error regression loss
+	-9.78948507122,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Poly SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.911744628382,Explained variance regression score function
+	119827.544118,Mean absolute error regression loss
+	23405732468.7,Mean squared error regression loss
+	0.817461829288,Mean squared logarithmic error regression loss
+	91875.0,Median absolute error regression loss
+	-0.95974028506,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Sigmoid SVM
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0,Explained variance regression score function
+	341933.602941,Mean absolute error regression loss
+	128861871635.0,Mean squared error regression loss
+	1.75593071287,Mean squared logarithmic error regression loss
+	357842.5,Median absolute error regression loss
+	-9.78948507122,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Gaussian Process
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0,Explained variance regression score function
+	341933.602941,Mean absolute error regression loss
+	128861871635.0,Mean squared error regression loss
+	1.75593071287,Mean squared logarithmic error regression loss
+	357842.5,Median absolute error regression loss
+	-9.78948507122,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Decision Tree
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.286979586042,Explained variance regression score function
+	97638.2941176,Mean absolute error regression loss
+	16047922495.3,Mean squared error regression loss
+	0.75580353239,Mean squared logarithmic error regression loss
+	72256.5,Median absolute error regression loss
+	-0.343677675868,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Regrission Tree
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	0.0578703610073,Explained variance regression score function
+	83431.0147059,Mean absolute error regression loss
+	11614495062.0,Mean squared error regression loss
+	0.781215433102,Mean squared logarithmic error regression loss
+	68821.5,Median absolute error regression loss
+	0.0275290938224,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Random Forest
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.68037516814,Explained variance regression score function
+	114492.794118,Mean absolute error regression loss
+	22460000303.5,Mean squared error regression loss
+	0.872438440795,Mean squared logarithmic error regression loss
+	93943.0,Median absolute error regression loss
+	-0.880555007456,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Neural Net
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.00185652917963,Explained variance regression score function
+	123037.470588,Mean absolute error regression loss
+	25267367071.1,Mean squared error regression loss
+	0.875201778304,Mean squared logarithmic error regression loss
+	102880.5,Median absolute error regression loss
+	-1.11561322479,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: AdaBoost
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.671368772851,Explained variance regression score function
+	112245.132353,Mean absolute error regression loss
+	20001680413.2,Mean squared error regression loss
+	0.936387194758,Mean squared logarithmic error regression loss
+	87519.0,Median absolute error regression loss
+	-0.674722161636,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
+--------------------------------------------------------------------------------
+Classifier: Naive Bayes
+--------------------------------------------------------------------------------
+-------------------------
+Regression metrics
+-------------------------
+	-0.790572329582,Explained variance regression score function
+	116105.426471,Mean absolute error regression loss
+	21621909966.2,Mean squared error regression loss
+	0.868334954809,Mean squared logarithmic error regression loss
+	91875.0,Median absolute error regression loss
+	-0.810382480336,R^2 (coefficient of determination) regression score function.
+Classification metrics
+-------------------------
+	0.0,Accuracy Score
+	0.0,Matthews correlation coefficient (MCC)
+	0.0,Jaccard similarity coefficient
+	0.0,Cohen's kappa
